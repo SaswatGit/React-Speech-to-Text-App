@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Speech-to-Text-App/static/css/main.05f7ec67.css",
+    "main.js": "/React-Speech-to-Text-App/static/js/main.4bf13f27.js",
+    "index.html": "/React-Speech-to-Text-App/index.html",
+    "main.05f7ec67.css.map": "/React-Speech-to-Text-App/static/css/main.05f7ec67.css.map",
+    "main.4bf13f27.js.map": "/React-Speech-to-Text-App/static/js/main.4bf13f27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f7ec67.css",
+    "static/js/main.4bf13f27.js"
+  ]
+}
